@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UONGGuy!
-- 👀 I’m interested in maths modelling and how coding can be used to enhance it.
-- 🌱 I’m currently learning about machine learning on Python through Kaggle.
+- 👀 I’m interested in upskilling.
+- 🌱 I’m currently learning about C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
