@@ -3,7 +3,7 @@ Hi, I'm @UONGGuy!
 - 👀 Interested in exploring a challenging career which will allow me to develop maths and computational modelling skills.
 - 🖥️ Have coded in Python and MATLAB (see my projects!)
 - 🌱 Currently learning how to use pandas in Python and how to code in C++!
-- 📫 Read my CV in my profile repository (https://github.com/UONGGuy/UONGGuy)!
+- 📫 Read my CV in my profile repository (https://github.com/UONGGuy/UONGGuy).
 
 <!---
 - 👋 Hi, I’m @UONGGuy!
