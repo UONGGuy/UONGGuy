@@ -1,5 +1,5 @@
 Hi, I'm @UONGGuy!
-- Recent MSCi graduate in Natural Sciences (Astrophysics) [2.1] interested in the implementation of mathematics in code to produce robust models.
+- Recent MSCi graduate in Natural Sciences (Astrophysics) [2.1] interested in the implementation of mathematics through programming to produce robust models and make better informed decisions.
 - 👀 Interested in exploring a challenging career which will allow me to develop maths and computational modelling skills.
 - 🖥️ Have coded in Python and MATLAB (see my projects!)
 - 🌱 Currently learning how to use pandas in Python and how to code in C++
